@@ -2,6 +2,8 @@
 
 ### Project 1 under Suven Coding Internship
 
+You can view Live Preview <a href="https://shashwatbangar.github.io/365-Entertainment-Website/"> Here </a>
+
 <ul><li>Designed an HTML-CSS frontend template including the following modules like header containing navigation links and site logo with embedded CSS properties.</li>
 <li>Body content or section with movie details sorted and displayed according to genre and footer with copyright info.</li>
 <li>365 Entertainment has a javascript search module to search for any movies within the webpage and show the result with their category.</li>
